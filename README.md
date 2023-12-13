@@ -1,2 +1,2 @@
-# fam-tree
-Family Tree Project.
+# my-tree
+Family Tree
